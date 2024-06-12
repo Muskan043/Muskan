@@ -17,6 +17,6 @@ System.out.println("studyhours = 2hrs ");
         student.study();
         student.studyhours();;
         student.age = 18;
-        student.name = john;
+        student.name = "muskan";
     }
 }
