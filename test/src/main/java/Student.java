@@ -15,8 +15,9 @@ System.out.println("studyhours = 2hrs ");
 
         Student student = new Student();
         student.study();
-        student.studyhours();;
-        student.age = 18;
-        student.name = "muskan";
+        student.studyhours();
+        System.out.println(student.age = 18);
+        System.out.println(student.name = "Muskan");
+        System.out.println(student.studentID = "ab45");
     }
 }

@@ -7,7 +7,7 @@ public class CWH_04_literals {
         System.out.println(age);
         System.out.println(ch);
         System.out.println(f1);
-        System.out.println(d1);;
+        System.out.println(d1);
 
     }
 }
