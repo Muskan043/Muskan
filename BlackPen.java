@@ -1,5 +1,5 @@
-public class Blackpen {
-
+public class BlackPen {
+//non-static class
     String colour;
     String name;
 
@@ -8,13 +8,13 @@ public class Blackpen {
     }
     public void speed(){
         System.out.println(" The speed is good");
-    }
-
+    }}
+class dog{
     public static void main(String[] args) {
-     Blackpen blackpen = new Blackpen();
+     BlackPen blackpen = new BlackPen();
      blackpen.smoothness();
      blackpen.speed();
-        System.out.println(blackpen.name = "writometer");
+        System.out.println(blackpen.name = "WRitoMeter");
         System.out.println(blackpen.colour = "black ");
     }
 }

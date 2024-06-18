@@ -1,4 +1,4 @@
-public class Bluepen {
+public class BluePen {
 //static class
     static String colour ;
     static String name ;
@@ -12,9 +12,9 @@ public class Bluepen {
     }
 
     public static void main(String[] args) {
-        System.out.println(Bluepen.colour = "Blue");
-        System.out.println(Bluepen.name=" writometer");
-        Bluepen.smoothness();
-        Bluepen.speed();
+        System.out.println(BluePen.colour = "Blue");
+        System.out.println(BluePen.name=" WRitoMeter");
+        BluePen.smoothness();
+        BluePen.speed();
     }
 }
