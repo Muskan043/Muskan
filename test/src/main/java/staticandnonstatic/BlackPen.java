@@ -1,3 +1,5 @@
+package org.example.statics;
+
 public class BlackPen {
 //non-static class
     String colour;

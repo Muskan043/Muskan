@@ -1,3 +1,5 @@
+package org.example.statics;
+
 public class BluePen {
 //static class
     static String colour ;
